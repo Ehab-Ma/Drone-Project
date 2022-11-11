@@ -6,5 +6,14 @@ baseem.salem@hotmail.com
 
 2- Ehab Mansour
 ehab.m.97@hotmail.com
-..
-our project is about face tracking by drone tello one 
+
+
+# Project Title:
+Face-Tracking drone.
+
+# Project Info:
+We are using a tello drone as our hardware for the the project.
+We want to implement an algorithm that its main goal is to be able to recognize and track a face while the drone is in mid air.
+
+#Programming language:
+Python.
